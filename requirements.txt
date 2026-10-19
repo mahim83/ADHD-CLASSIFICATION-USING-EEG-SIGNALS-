@@ -1,0 +1,15 @@
+# Python 3.12. Versions are the ones the results were produced with;
+# newer minor versions should also work.
+
+numpy==2.5.4
+pandas==3.0.6
+scipy==1.18.1
+scikit-learn==1.9.1
+xgboost==3.4.1
+tensorflow==2.21.0
+matplotlib==3.11.2
+seaborn==0.13.2
+
+# notebook environment
+jupyterlab==4.6.4
+ipykernel==7.4.0

@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (raw EEG CSV is ~255 MB, cached epochs ~174 MB - keep out of git)
+data/
+
+# OS / editor
+.DS_Store
+.vscode/
